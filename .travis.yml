@@ -1,4 +1,4 @@
-os_custom: 123456789012345678901234567890
+os_custom: qwedsaqwdsaqwdsa
 jobs:
 script:
 - sleep 10
