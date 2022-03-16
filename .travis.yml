@@ -1,4 +1,4 @@
-os_custom: image222
+os_custom: rtfgyhujimok,lp
 jobs:
 script:
 - sleep 10
