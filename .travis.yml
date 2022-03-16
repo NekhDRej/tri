@@ -1,8 +1,0 @@
-os_custom: rtfgyhujimok,lp
-jobs:
-script:
-- sleep 10
-- echo 1
-group: dev
-virt: lxd
-language: minimal
